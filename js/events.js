@@ -15,3 +15,5 @@ function functionName(e){
     var inputVal = firstNameEl.value;
     console.log(inputVal);
 }
+
+
